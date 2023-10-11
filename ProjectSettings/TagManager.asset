@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Undetectable
+  - Unit
+  - Weak Spot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Unit
+  - Water
+  - UI
+  - Hurtbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 198168059
+    locked: 0
+  - name: Player
+    uniqueID: 2220774947
+    locked: 0
+  - name: Projectile
+    uniqueID: 2260936793
+    locked: 0
